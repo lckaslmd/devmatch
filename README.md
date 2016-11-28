@@ -1,4 +1,4 @@
 # README
 
-Software-as-a-Service for connecting developers to entrepreneurs
-Project from Upskill course
+Software-as-a-Service for connecting developers to entrepreneurs.
+Project from Upskill course.
